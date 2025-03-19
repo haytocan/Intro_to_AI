@@ -23,8 +23,3 @@ Projeyi çalıştırmak için aşağıdaki Python kütüphanelerinin kurulması 
 - NLTK
 - spaCy
 
-Gereksinimleri `requirements.txt` dosyasından kurabilirsiniz:
-
-```bash
-pip install -r requirements.txt
-
